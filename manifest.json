@@ -1,0 +1,20 @@
+{
+    "name": "TWICE!",
+    "short_name": "TWICE!",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ce6c9d",
+    "theme_color": "#fccfa6",
+    "orientation": "portrait-primary",
+    "icons": [{
+            "src": "assets/iconos/TWICE_LOGO.png",
+            "type": "image/png",
+            "sizes": "175x175"
+        },
+        {
+            "src": "assets/iconos/TWICE_LOGO_PWA.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ]
+}
