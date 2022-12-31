@@ -3,8 +3,8 @@ const assets = [
   "./",
   "./index.html",
   "./styles/estilos.css",
+  "./main.js",
   "./script.js"
-
 ];
 
 self.addEventListener("install", installEvent => {
